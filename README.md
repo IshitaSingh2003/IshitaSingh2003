@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="180" width="960" alt="image" src="https://i.pinimg.com/originals/f9/71/2c/f9712cfa3c2af3fc8ea950e971398ca3.gif">
+  <img height="180" width="860" alt="image" src="https://github.com/IshitaSingh2003/workflows/blob/main/f390a234ac09cc0be411d7dcc7c28e74.gif">
 </div>
 
 ###
@@ -29,8 +29,8 @@
 
 <h1 align="center">🧚‍♀️Hello Everyone🧚‍♀️</h1>
 
-###
 
+      
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
@@ -38,7 +38,6 @@
 <p align="left">-  🎓I’m currently pursuing a degree in B.Tech CSE .<br>-  🔭I'm currently learning and exploring Flutter Development.<br>- 🪄 In my free time I ideate and build tools that use AI to make our lives easier.<br>- 👾 When I am not coding I am into  arts, yogic science and philosophy.</p>
 
 ###
-
 <h3 align="left">💻What helps me build:</h3>
 
 ###
@@ -84,3 +83,6 @@
 </div>
 
 ###
+#font change
+#side image
+#snake game
