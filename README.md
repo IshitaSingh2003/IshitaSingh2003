@@ -1,20 +1,28 @@
 <div align="center">
-  <img height="150" src=""  />
+  <img height="150" src=" "  />
 </div>
 
 ###
 
 <div align="center">
-  <a href="singhishita78@gmail.com" target="_blank">
+  <a  href = "mailto: singhishita78@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-  <a href="discordapp.com/users/Ishita Singh#4946" target="_blank">
+  <a href="discordapp.com/users/781779924587511838" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   </a>
+   <a  href = "https://www.instagram.com/isha_._.__/" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+   </a>
+   <a  href = "https://www.linkedin.com/in/ishita-singh-03718a201/" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+   </a>
+   <a  href = "https://www.youtube.com/@livingbetterwithElyzish30/about" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+   </a>
+   <a  href = "Ko-fi.com/ishitasingh"_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/ko-fi/default.svg" width="52" height="40" alt="ko-fi logo"  />
+   </a>
 </div>
 
 ###
