@@ -29,7 +29,7 @@
 
 <h1 align="center">🧚‍♀️Hello Everyone🧚‍♀️</h1>
 
-
+<img align="right" height="300" width="300" alt="image" src="https://github.com/IshitaSingh2003/IshitaSingh2003/blob/main/af383f48f2d3ea0ae5bd7b505d22c2c9.jpg">
       
 <h3 align="left">👩‍💻  About Me</h3>
 
@@ -81,8 +81,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
 </div>
+<h3 align="left">🔥My Streak but a snake eats it:</h3>
 
 ###
-#font change
-#side image
-#snake game
+<br clear="both">
+<img src="https://raw.githubusercontent.com/ishitasingh2003/ishitasingh2003/output/snake.svg" alt="Snake animation" />
