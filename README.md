@@ -27,7 +27,7 @@
 
 ###
 
-<h1 align="center">🧚‍♀️Hello Everyone🧚‍♀️</h1>
+<h1 align="center">Hello Everyone🧚‍♀️</h1>
 
 <img align="right" height="300" width="300" alt="image" src="https://github.com/IshitaSingh2003/IshitaSingh2003/blob/main/af383f48f2d3ea0ae5bd7b505d22c2c9.jpg">
       
@@ -81,8 +81,21 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40" alt="googlecloud logo"  />
 </div>
-<h3 align="left">🔥My Streak but a snake eats it:</h3>
+
+<h3>🔥My stats</h3>
 
 ###
+
 <br clear="both">
-<img src="https://raw.githubusercontent.com/ishitasingh2003/ishitasingh2003/output/snake.svg" alt="Snake animation" />
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/ishitasingh2003/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=ishitasingh2003&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
