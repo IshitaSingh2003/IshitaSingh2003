@@ -2,32 +2,31 @@
   <img height="180" width="860" alt="image" src="https://github.com/IshitaSingh2003/workflows/blob/main/f390a234ac09cc0be411d7dcc7c28e74.gif">
 </div>
 
-###
 
+<h1 align="center">Hello Everyone</h1>
 <div align="center">
   <a  href = "mailto: singhishita78@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="30" alt="gmail logo"  />
   </a>
   <a href="https://www.discordapp.com/users/781779924587511838" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="42" height="30" alt="discord logo"  />
   </a>
    <a  href = "https://www.instagram.com/isha_._.__/" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  />
    </a>
    <a  href = "https://www.linkedin.com/in/ishita-singh-03718a201/" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
    </a>
    <a  href = "https://www.youtube.com/@livingbetterwithElyzish30/about" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="42" height="30" alt="youtube logo"  />
    </a>
    <a  href = "https://www.Ko-fi.com/ishitasingh"_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/ko-fi/default.svg" width="52" height="40" alt="ko-fi logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/ko-fi/default.svg" width="42" height="30" alt="ko-fi logo"  />
    </a>
 </div>
 
 ###
 
-<h1 align="center">Hello Everyone🧚‍♀️</h1>
 
 <img align="right" height="300" width="300" alt="image" src="https://github.com/IshitaSingh2003/IshitaSingh2003/blob/main/af383f48f2d3ea0ae5bd7b505d22c2c9.jpg">
       
