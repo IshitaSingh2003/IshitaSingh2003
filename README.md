@@ -34,7 +34,7 @@
 
 ###
 
-<p align="left">-  🎓I’m currently pursuing a degree in B.Tech CSE .<br>-  🔭I'm currently learning and exploring Flutter Development.<br>- 🪄 In my free time I ideate and build tools that use AI to make our lives easier.<br>- 👾 When I am not coding I am into  arts, yogic science and philosophy.</p>
+<p align="left">-  🎓I’m currently pursuing a degree in B.Tech CSE .<br>-  🔭I'm currently learning and exploring Data Analysis and ML.<br>- 🪄 In my free time I ideate and build tools that use AI to make our lives easier.<br>- 👾 When I am not coding I am into  arts, yogic science and philosophy.</p>
 
 ###
 <h3 align="left">💻What helps me build:</h3>
