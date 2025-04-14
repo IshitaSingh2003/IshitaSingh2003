@@ -11,7 +11,7 @@
   <a href="https://www.discordapp.com/users/781779924587511838" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="42" height="30" alt="discord logo"  />
   </a>
-   <a  href = "[https://www.instagram.com/dream.ish._/" target="_blank">
+   <a  href = "https://www.instagram.com/dream.ish._/" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  />
    </a>
    <a  href = "https://www.linkedin.com/in/ishita-singh-03718a201/" target="_blank">
