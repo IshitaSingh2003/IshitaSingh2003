@@ -11,15 +11,15 @@
   <a href="https://www.discordapp.com/users/781779924587511838" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="42" height="30" alt="discord logo"  />
   </a>
-   <a  href = "https://www.instagram.com/isha_._.__/" target="_blank">
+   <a  href = "[https://www.instagram.com/dream.ish._/" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  />
    </a>
    <a  href = "https://www.linkedin.com/in/ishita-singh-03718a201/" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
    </a>
-   <a  href = "https://www.youtube.com/@livingbetterwithElyzish30/about" target="_blank">
+<!--    <a  href = "https://www.youtube.com/@livingbetterwithElyzish30/about" target="_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="42" height="30" alt="youtube logo"  />
-   </a>
+   </a> -->
    <a  href = "https://www.Ko-fi.com/ishitasingh"_blank">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/ko-fi/default.svg" width="42" height="30" alt="ko-fi logo"  />
    </a>
